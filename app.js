@@ -1,0 +1,1 @@
+document.getElementById('app').innerHTML = 'Full dashboard UI loading... (live data will populate once API connected)';
